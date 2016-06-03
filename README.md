@@ -12,7 +12,7 @@ ANNSER will
 * Provide tutorials and documentation that support its use by students and researchers
 
 If you are interested in experimenting with the code or contributing to development you will find some information
- [here](DEVELOPRS.md).
+ [here](DEVELOPERS.md).
  
 There is a discussion/support group [here](https://groups.google.com/forum/#!forum/annser).
 
