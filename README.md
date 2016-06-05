@@ -27,4 +27,6 @@ There are a series of blog posts explaining the code in the examples:
 * [A brief introduction to ANNs - part 2](http://blog.rareschool.com/2016/05/neural-networks-on-raspberry-pi-more.html)
 * [A brief introduction to ANNs - part 3](http://blog.rareschool.com/2016/05/neural-networks-on-raspberry-pi-sigmoid.html)
 
+__NB:__ The code is __pre-Alpha__; implementations and APIs will change rapidily.
+
 
