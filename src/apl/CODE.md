@@ -1,5 +1,10 @@
 APL code for the ANNSER project.
 
-Initially these will be a few dfns and some data to illustrate APL neurons, and a demo workspace.
+To use the code, 
+1. start APL in the /src/apl directory of the project
+2. type ]load ./*
+3. type )wsid annser
+4. type )save
 
-The workspace will be based on Dyalog APL 15.0, so it will not load on 14.1 or earlier.
+Now try typing the Example shwon in the DESCRIBE variable.
+
