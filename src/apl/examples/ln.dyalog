@@ -1,1 +1,2 @@
-﻿ ln←{⍺+.×⍵}
+﻿ ln←{⍺+.×⍵ ⍝ linear neuron
+ }
