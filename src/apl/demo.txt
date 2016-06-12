@@ -1,0 +1,6 @@
+p ← ⎕new Perceptron (2 3)    
+t←⎕NEW Target((0 0 0)(1 1))  
+t2← ⎕NEW Target((0 0 1)(0 1))
+p.train t, t2
+p.fire 0 0 0
+p.fire 0 0 1
