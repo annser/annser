@@ -176,3 +176,6 @@ fabric.properties
 # Spyder project settings
 
 # Rope project settings
+
+# Dyalog stuff
+*.dws
