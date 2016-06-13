@@ -180,3 +180,6 @@ fabric.properties
 # Dyalog stuff
 *.dws
 aplcore
+
+# The public directory will contain files that need to be downloaded from eslewhere, and are not to be checked in.
+/public/
