@@ -3,11 +3,8 @@ APL code for the ANNSER project.
 To use the code:
 1. adjust the path in Build.dyalog if necessary
 1. start APL and load a clear workspace if necessary
-1. load the Build function by invoking
-
-
-    ]SLT.load '<path to repository>/src/apl/dev/Build,dyalog'
-
+1. load the Build function by invoking `]SALT.load '<path to repository>/src/apl/dev/Build.dyalog'`
+1. run Build
 
 You can run a simple demo by typing
 
