@@ -1,4 +1,5 @@
-p ← ⎕new Perceptron (2 3)    
+⎕cs ''#.demo'
+p ← ⎕new Perceptron (2 3)
 t←⎕NEW Target((0 0 0)(1 1))  
 t2← ⎕NEW Target((0 0 1)(0 1))
 p.train t, t2
